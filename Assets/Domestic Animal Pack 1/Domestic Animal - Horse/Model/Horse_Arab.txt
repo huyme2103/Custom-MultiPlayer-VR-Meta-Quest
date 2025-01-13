@@ -1,0 +1,30 @@
+0001-0048 Lie Down
+0049-0104 Sleep  
+0105-0154 Stand Up
+0156-0196 Jump
+0198-0365 Eating 
+0366-0566 Idlle 
+0567-0613 Idle01 
+0614-0685 Idle02   
+0686-0719 Attack  
+0720-0786 Attack01 
+0787-0826 Attack02 
+0828-0861 WalkBack    
+0863-0884 Trot 
+0886-0899 Gallop
+0901-0929 Tarsus 
+0931-1050 Idle03  
+1051-1077 Death 
+1079-1094 HitRight
+1095-1113 HitLeft
+1114-1130 HitFront 
+1131-1149 HitBack 
+1151-1172 TrotTurnL
+1174-1195 TrotTurnR 
+1197-1210 GallopTurnL
+1112-1225 GallopTurnR
+1227-1255 TarsusTurnL 
+1257-1285 TarsusTurnR 
+1287-1324 ZigZagRight 
+1326-1364 ZigZagLeft 
+1365-1377 Galopping 

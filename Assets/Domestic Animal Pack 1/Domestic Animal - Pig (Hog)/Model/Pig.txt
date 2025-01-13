@@ -1,0 +1,19 @@
+0000-0000 Bind Pose
+0001-0014 loop Run
+0016-0026 loop Run01
+0028-0045 loop Attack
+0047-0065 Death
+0066-0146 loop Eating
+0147-0243 loop Eating 01
+0244-0292 loop Fight Idle
+0293-0305 loop Hit Left
+0305-0337 loop Hit Right
+0318-0366 Loop Idle Chrum Chrum
+0367-0407 Start To Rest
+0408-0456 loop Rest
+0457-0497 End Rest
+0498-0514 Start To Sleeping (It starts from position Rest)
+0514-0562 loop Sleeping
+0562-0578 End Sleepin (ends with position Rest)
+0579-0613 loop Walk Eating
+0614-0639 loop Walk

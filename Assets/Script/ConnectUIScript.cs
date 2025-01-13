@@ -18,7 +18,6 @@ public class ConnectUIScript : MonoBehaviour
     private const int broadcastPort = 8888;
     private UdpClient udpClient;
     private bool isListening = false;
-
     private string discoveredIP = "";
 
     private void Start()
